@@ -1,0 +1,50 @@
+Element,Symbol,Atomic Number,Isotope,Shortcut,Isotope Name,Atomic Mass,Abundance (%),Half-Life (Years),Decay Mode
+Hydrogen,H,1,H-1,H_1,Protium,1.007825,99.9885,Stable,None
+Hydrogen,H,1,D (Deuterium),D_2,Deuterium,2.014102,0.0115,Stable,None
+Hydrogen,H,1,T (Tritium),T_3,Tritium,3.016049,Trace,12.32,Beta Decay
+Helium,He,2,He-3,He_3,Helium-3,3.016029,0.000137,Stable,None
+Helium,He,2,He-4,He_4,Helium-4,4.002603,99.999863,Stable,None
+Lithium,Li,3,Li-6,Li_6,Lithium-6,6.015122,7.59,Stable,None
+Lithium,Li,3,Li-7,Li_7,Lithium-7,7.016004,92.41,Stable,None
+Beryllium,Be,4,Be-9,Be_9,Beryllium-9,9.012182,100,Stable,None
+Boron,B,5,B-10,B_10,Boron-10,10.012937,19.9,Stable,None
+Boron,B,5,B-11,B_11,Boron-11,11.009305,80.1,Stable,None
+Carbon,C,6,C-12,C_12,Carbon-12,12.000000,98.93,Stable,None
+Carbon,C,6,C-13,C_13,Carbon-13,13.003355,1.07,Stable,None
+Carbon,C,6,C-14,C_14,Carbon-14,14.003242,Trace,5730,Beta Decay
+Nitrogen,N,7,N-14,N_14,Nitrogen-14,14.003074,99.632,Stable,None
+Nitrogen,N,7,N-15,N_15,Nitrogen-15,15.000108,0.368,Stable,None
+Oxygen,O,8,O-16,O_16,Oxygen-16,15.994915,99.757,Stable,None
+Oxygen,O,8,O-17,O_17,Oxygen-17,16.999132,0.038,Stable,None
+Oxygen,O,8,O-18,O_18,Oxygen-18,17.999161,0.205,Stable,None
+Fluorine,F,9,F-19,F_19,Fluorine-19,18.998403,100,Stable,None
+Neon,Ne,10,Ne-20,Ne_20,Neon-20,19.992440,90.48,Stable,None
+Neon,Ne,10,Ne-21,Ne_21,Neon-21,20.993847,0.27,Stable,None
+Neon,Ne,10,Ne-22,Ne_22,Neon-22,21.991385,9.25,Stable,None
+Sodium,Na,11,Na-23,Na_23,Sodium-23,22.989770,100,Stable,None
+Magnesium,Mg,12,Mg-24,Mg_24,Magnesium-24,23.985042,78.99,Stable,None
+Magnesium,Mg,12,Mg-25,Mg_25,Magnesium-25,24.985837,10.00,Stable,None
+Magnesium,Mg,12,Mg-26,Mg_26,Magnesium-26,25.982593,11.01,Stable,None
+Aluminum,Al,13,Al-27,Al_27,Aluminum-27,26.981538,100,Stable,None
+Silicon,Si,14,Si-28,Si_28,Silicon-28,27.976927,92.23,Stable,None
+Silicon,Si,14,Si-29,Si_29,Silicon-29,28.976495,4.67,Stable,None
+Silicon,Si,14,Si-30,Si_30,Silicon-30,29.973770,3.10,Stable,None
+Phosphorus,P,15,P-31,P_31,Phosphorus-31,30.973762,100,Stable,None
+Sulfur,S,16,S-32,S_32,Sulfur-32,31.972071,94.99,Stable,None
+Sulfur,S,16,S-33,S_33,Sulfur-33,32.971458,0.75,Stable,None
+Sulfur,S,16,S-34,S_34,Sulfur-34,33.967867,4.25,Stable,None
+Sulfur,S,16,S-36,S_36,Sulfur-36,35.967081,0.01,Stable,None
+Chlorine,Cl,17,Cl-35,Cl_35,Chlorine-35,34.968853,75.77,Stable,None
+Chlorine,Cl,17,Cl-37,Cl_37,Chlorine-37,36.965903,24.23,Stable,None
+Argon,Ar,18,Ar-36,Ar_36,Argon-36,35.967546,0.3365,Stable,None
+Argon,Ar,18,Ar-38,Ar_38,Argon-38,37.962732,0.0632,Stable,None
+Argon,Ar,18,Ar-40,Ar_40,Argon-40,39.962383,99.6003,Stable,None
+Potassium,K,19,K-39,K_39,Potassium-39,38.963707,93.2581,Stable,None
+Potassium,K,19,K-40,K_40,Potassium-40,39.963999,0.0117,1.25e9,Beta Decay
+Potassium,K,19,K-41,K_41,Potassium-41,40.961826,6.7302,Stable,None
+Calcium,Ca,20,Ca-40,Ca_40,Calcium-40,39.962591,96.941,Stable,None
+Calcium,Ca,20,Ca-42,Ca_42,Calcium-42,41.958618,0.647,Stable,None
+Calcium,Ca,20,Ca-43,Ca_43,Calcium-43,42.958766,0.135,Stable,None
+Calcium,Ca,20,Ca-44,Ca_44,Calcium-44,43.955481,2.086,Stable,None
+Calcium,Ca,20,Ca-46,Ca_46,Calcium-46,45.953693,0.004,Stable,None
+Calcium,Ca,20,Ca-48,Ca_48,Calcium-48,47.952534,0.187,Stable,None
